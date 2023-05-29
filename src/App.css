@@ -1,4 +1,3 @@
-
 @import "style/variabuls.scss";
 
 
@@ -13,12 +12,12 @@
     margin: 0 auto;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-body{
-    font-family: 'Gilroy',sans-serif;
+body {
+    font-family: 'Gilroy', sans-serif;
 }
 
 
